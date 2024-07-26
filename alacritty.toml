@@ -13,7 +13,7 @@ program = "/usr/bin/zsh"
 [window]
 dimensions = { columns = 135, lines = 35 }
 padding = { x = 0, y = 0 }
-decorations = "None"
+decorations = "Full"
 dynamic_padding = false
 startup_mode = "Windowed"
 # opacity managed by picom
